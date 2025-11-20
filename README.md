@@ -1,0 +1,2 @@
+# SafariSure
+Trip-based insurance 
