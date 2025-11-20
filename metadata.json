@@ -1,0 +1,8 @@
+{
+  "name": "SafariSure",
+  "description": "A digital-first, per-trip personal accident insurance application for Kenyan drivers. Offers flexible short-term coverage.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
